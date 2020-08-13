@@ -98,7 +98,7 @@ Configurações de sistema xml , rdf , json , owl
 - não precisei redefinir a esturura para que inserisse mais um componente cor
 -gera uma grande facilidade de gerar , mas transfere a responsabilidade de controlar a estrutura para o sistema. 
 
-
+# Fundamentos de arquitetura de aplicações em nuvem
 
 
 

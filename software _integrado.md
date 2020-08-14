@@ -128,4 +128,25 @@ Se trigger release precisa ser aprovada - Continuous delivery
 
 ![](https://github.com/luizrosalba/Arquitetura-de-Sistemas-Avan-ado.md/blob/master/aaaaaaa.PNG?raw=true)
 
+- é importante colocar o build para mostrar que está buildando no proprio repositorio 
+
+## Continuous inspection code quality 
+Inspecionadores de qualidade que podem dizer se seu código está bom ou não 
+
+-Identificar complexidade ciclomática. Quanto mais ramificações maior a complexidade. O codigo deve ser objetivo. 
+- Complexidade cognitiva - dificuldade de entender seu código 
+- código duplicado 
+- vulnerabidade code smell ex : senha no codigo (expoem a senha)  método com 573 linhas 
+- Padronização e estilos 
+- TODO deixou algo incompleto pelo código 
+- Débito técnico
+- cobertura de testes com badges 
+Ferramentas : 
+- sonarqube 
+- codeclimate
+- codacy 
+
+- Ferramentas de versionamento podem bloquear que as ferramentas de controle de qualidade vão para o release 
+
+
 

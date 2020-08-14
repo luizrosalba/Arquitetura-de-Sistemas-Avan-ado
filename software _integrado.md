@@ -71,6 +71,7 @@ Business -> Custumer -> Business -> Custumer -> Business -> Custumer -> Business
 - gitlab ci 
 - travis ci 
 - jenkins 
+- App veyor
 ## Operação (operate) implantação 
 - kubernetes (orquestra containers) 
 - rancher 
@@ -98,10 +99,26 @@ Business -> Custumer -> Business -> Custumer -> Business -> Custumer -> Business
 
 ## continuous integration 
 
+my app -> continuous delivery (aprove por mediador) 0> app deployed 
+my app -> continuous deployment (sem aprove por mediador) 0> app deployed 
+## deploy (disponibilização - implantação em produção) 
+- azure pipelines
+- circleci 
+- app veyor 
+- gitlab ci 
+- travis ci 
+- jenkins 
+- App veyor
+
+## pipelines
+ 
+ ![](https://github.com/luizrosalba/Arquitetura-de-Sistemas-Avan-ado.md/blob/master/Capturarsdsadasd.PNG?raw=true)
 
 
-
-
-
+Se trigger release é automatica - Continuous deployment 
+Se trigger release precisa ser aprovada - Continuous delivery
+- Pipeline do App Veyor 
+ ![](https://github.com/luizrosalba/Arquitetura-de-Sistemas-Avan-ado.md/blob/master/Capturar22222.PNG?raw=true
+)
 
 

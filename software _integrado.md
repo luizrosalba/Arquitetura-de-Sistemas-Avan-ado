@@ -120,5 +120,12 @@ Se trigger release precisa ser aprovada - Continuous delivery
 - Pipeline do App Veyor 
  ![](https://github.com/luizrosalba/Arquitetura-de-Sistemas-Avan-ado.md/blob/master/Capturar22222.PNG?raw=true
 )
+- Ciclecy Pipeline 
+
+![](https://github.com/luizrosalba/Arquitetura-de-Sistemas-Avan-ado.md/blob/master/circly.PNG?raw=true) 
+
+- Configuração do yml de cada um 
+
+![](https://github.com/luizrosalba/Arquitetura-de-Sistemas-Avan-ado.md/blob/master/aaaaaaa.PNG?raw=true)
 
 
